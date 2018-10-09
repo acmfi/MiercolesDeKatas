@@ -1,0 +1,107 @@
+#+TITLE: Miércoles de Katas
+
+- Próxima sesión: miércoles 17 de octubre
+- Lugar: Aula informática El Monje (Bloque 4, planta 1)
+- Hora: 15:00 a 16:30
+
+#+BEGIN_HTML
+<p align="center"><a href="#"><img width="100px" src="./img/logo-miercoles-katas.jpg" /></a></p>
+#+END_HTML
+
+
+* Organización
+
+- Fechas :: cada miércoles
+- Duración :: 1h-2h aproximadamente
+- Ubicación :: a convenir cada semana. Preferiblemente sala
+               informática.
+- Grupo :: http://t.me/acmxkatas
+- Responsables :: Ignacio (@ignaciobll), Ferrero (@Alfedi)
+
+
+¿Quieres encargarte de algo? ¡Eres libre de hacerlo! Coméntalo por el grupo.
+
+* Objetivos
+
+Se pueden plantear diferentes objetivos acordes al nivel de
+programación que se tenga. Además, cada persona podrá establecer sus
+metas con la actividad semanal.
+
+Sin embargo hay algunos objetivos comunes que clasificaremos según el
+nivel de conocimiento:
+
+- Objetivos si estás empezando:
+  - Coger el hábito de programar.
+  - Usar las técnicas aprendidas fuera del contexto habitual.
+  - Aprender nuevas técnicas.
+- Objetivos si controlas los elementos básicos de un lenguaje:
+  - Salir de la zona de comfort aprendiendo otro lenguaje.
+  - Aprender las diferencias en cuanto a semántica entre dos lenguajes.
+  - Profundizar en conocimiento relativos a librerías y usos del lenguaje:
+    - Testing
+    - Servicios Web
+    - Creación de programas completos (interfaz gráfica o CLI)
+    - Elaboración de paquetes.
+- Objetivos si te desenvuelves en el ecosistema de un lenguaje:
+  - Aprender lenguajes de otros paradigmas, volviendo a empezar en
+    los objetivos de si estás empezando y si controlas lo elementos
+    básicos del lenguaje.
+  - En el lenguaje dominado, conocer la integración con servicios para
+    el despliegue de los proyectos.
+
+#+BEGIN_HTML
+<p align="center"><a href="#"><img width="100px" src="./img/logo-miercoles-katas.jpg" /></a></p>
+#+END_HTML
+
+* Recursos que se usarán en la actividad
+
+- CodeWars :: Clan [ACM UPM] http://www.codewars.com
+- UVa :: http://uva.onlinejudge.org/
+
+En época de Navidad seguramente empecemos a usar AdventOfCode (https://adventofcode.com/)
+
+** Repositorio en Github
+
+En el repostorio de Github publicaremos problemas destacados y
+pondremos las soluciones que vamos haciendo. No solo se aprende
+programando, sino viendo cómo programa el resto de gente.
+
+Enlace al repo: https://github.com/acmfi/MiercolesDeKatas
+
+El repositorio se estructurará de la siguiente manera:
+
+#+BEGIN_SRC sh
+$ tree
+.
+├── README.org
+└── sesiones
+    ├── README.org
+    └── semana1
+        ├── README.org
+        └── ignaciobll
+            └── problema.hs
+#+END_SRC
+
+Tendremos un fichero ~README.org~ en la raíz donde estará esto que
+estás leyendo. En el directorio ~sesiones~ tendremos carpetas para
+cada semana con los problemas que haremos. Dentro de la carpeta
+crearemos +MÁS+ carpetas con nuestros usuarios donde subiremos
+nuestras soluciones.
+
+*** Cómo subir el código al repositorio
+
+Tienes dos opciones, si tienes permisos chachis, puedes clonar el
+repositorio directamente y seguir con tu flujo de trabajo habitual:
+
+#+BEGIN_SRC sh
+git clone git@github.com:acmfi/MiercolesDeKatas.git
+#+END_SRC
+
+Creamos nuestra carpeta de la semana, (~pull~ antes de hacer
+~commit~), y hacemos ~push~.
+
+La otra opción que tienes es hacer un ~fork~. Arriba a la derecha
+tienes el botoncito para hacerlo (si está en la web de Github). La
+dinámica es trabajar en tu repo, hacer ~fetch~ de este repositorio,
+~push~ a **tu** repo y después desde la interfaz web de Github haces
+el Pull Request.
