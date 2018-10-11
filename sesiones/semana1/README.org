@@ -88,7 +88,7 @@ Podemos empezar un un par de los sencillos para conocer la plataforma:
 ¿Quieres hacer algo más durante esta sesión? Genial, ¿por qué no
 intentas resolver otros problemas? Si alguno te gusta o te resulta
 interesante por algún motivo, lo podemos intentar hacer en la próxima
-sesión y así comparar soluciones?
+sesión y así comparar soluciones.
 
 La idea de estas sesiones no es hacer proyectos grandes in-situ, pero
 sí que podemos diseccionarlos y aprender por partes el qué hacer.
