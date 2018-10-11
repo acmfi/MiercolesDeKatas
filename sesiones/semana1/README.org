@@ -1,7 +1,7 @@
 * Introducción. ¿Cómo vamos a trabajar?
 
-- [[#Algunas-webs-para-empezar][Algunas webs para empezar]]
-- [[#Problemas-para-esta-semana][Problemas para esta semana]]
+- [[#algunas-webs-para-empezar][Algunas webs para empezar]]
+- [[#problemas-para-esta-semana][Problemas para esta semana]]
 
 En esta sesión conoceremos algunas webs para mejorar nuestro nivel de
 programación. No todo se basará en usar una web, porque el componente
