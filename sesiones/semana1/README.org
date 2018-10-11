@@ -1,0 +1,98 @@
+* Introducción. ¿Cómo vamos a trabajar?
+
+- [[#Algunas-webs-para-empezar][Algunas webs para empezar]]
+- [[#Problemas-para-esta-semana][Problemas para esta semana]]
+
+En esta sesión conoceremos algunas webs para mejorar nuestro nivel de
+programación. No todo se basará en usar una web, porque el componente
+social es fundamental para aprender mejor. ¿Qué es el componente
+social? Ver cómo la gente de tu alrededor resuelve el mismo problema
+que tú.
+
+Utilizando este reposotorio podremos ver qué ha hecho el resto de
+gente durante la misma semana. Aquí no hay que entregar tareas, esto
+se hace solo para aprender. Así que si no hay que entregar nada,
+tampoco hay necesidad de copiarse. Los problemas se pueden resolver
+por imitación, pero eso no implica que hayas aprendido a
+solucionarlos.
+
+#+BEGIN_HTML
+<p align="center"><a href="#"><img width="100px" src="../../img/logo-miercoles-katas.jpg" /></a></p>
+#+END_HTML
+
+** Algunas webs para empezar
+
+*** Codewars
+
+https://www.codewars.com/ Clan: ACM UPM
+
+Seguramente si te fijas en el logo podrás ver la similitud con el que
+estamos usando para esta actividad. Esta web tiene una buena cantidad
+de ejercicios para resolver en bastantes lenguajes. Una de las parte
+que más nos gustan es que después de resolver un ejercicio puedes ver
+las respuestas de otra gente.
+
+Además, te permite unirte a un clan y tener una clasificación privada
+solo para la gente del clan. Una forma más de tener ese componente
+social tan importante para seguir mejorando.
+
+En estos ejercicios no deberías preocuparte por la entrada/salida,
+solamente deberás programar las funciones.
+
+*** UVa
+
+https://uva.onlinejudge.org/
+
+La Universidad de Salamanca tiene el que puede ser el juez más usado
+en cuanto a resolución de problemas de programación. Seguramente sea
+el repositorio más grande de problemas de programación.
+
+Esta web se utiliza para entrenar en los concursos de programación
+competitiva internacional, como el ICPC de ACM internacional. A nivel
+de la Comunidad de Madrid el concurso universitario Ada Byron utiliza
+este corrector. Para final de año también se lanzan unos desafíos
+llamados "Las 12 uvas".
+
+Este corrector admite 3 leguajes problemas: C, C++ y Java. Pondrán a
+prueba tus conocimiento sobre complejidad, algoritmos y estructuras de
+datos. Además, tendrás que ser capaz de manejar la *entrada/salida*
+por pantalla.
+
+#+BEGIN_HTML
+<p align="center"><a href="#"><img width="100px" src="../../img/logo-miercoles-katas.jpg" /></a></p>
+#+END_HTML
+
+** Problemas para esta semana
+
+Puedes crearte una cuenta en alguna de estas webs. En CodeWars si
+quieres configura tu perfil de lenguajes de interés y únete al clan
+ACM UPM.
+
+Si crees que tienes cierta soltura programando, sabes usar los bucles,
+los arrays y quieres aprender a hacer mejor la entrada/salida; te
+recomendamos empezar con un ejercicio de la UVa:
+
+
+- [[https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=36][Enlace al problema 100 de la UVa]]
+- Para hacer un poco de debug con tus resultados y entender mejor el
+  problema: https://www.udebug.com/UVa/100
+
+En CodeWars encontarás problemas clasificados por nivel de dificultad:
+desde 8kyu los más fáciles hasta 1kyu para los más complejos.
+
+Podemos empezar un un par de los sencillos para conocer la plataforma:
+
+- https://www.codewars.com/kata/stacked-balls-2d
+- https://www.codewars.com/kata/stacked-balls-3d-square-base
+
+¿Quieres hacer algo más durante esta sesión? Genial, ¿por qué no
+intentas resolver otros problemas? Si alguno te gusta o te resulta
+interesante por algún motivo, lo podemos intentar hacer en la próxima
+sesión y así comparar soluciones?
+
+La idea de estas sesiones no es hacer proyectos grandes in-situ, pero
+sí que podemos diseccionarlos y aprender por partes el qué hacer.
+
+Cualquier cosa que se te ocurra hacer para aprender proponla y
+trabajamos para intentar hacerla. Cada semana iremos haciendo cosas
+según nos vaya interesando.
