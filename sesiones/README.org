@@ -1,0 +1,22 @@
+* Sesiones
+
+Cada semana publicaremos aquí el contenido que querremos
+trabajar. Cada sesión estará resumida en su directorio y desde aquí
+enlazaremos a cada una.
+
+#+BEGIN_HTML
+<p align="center"><a href="#"><img width="100px" src="../img/logo-miercoles-katas.jpg" /></a></p>
+#+END_HTML
+
+** Sesión actual
+
+- Título: Introducción. ¿Cómo vamos a trabajar?
+- Objetivo: familiarización con las dinámicas de trabajo. Conocer el
+  entorno y resolver los primeros problemas.
+- Carpeta: [[./semana1/][semana1]]
+
+#+BEGIN_HTML
+<p align="center"><a href="#"><img width="100px" src="../img/logo-miercoles-katas.jpg" /></a></p>
+#+END_HTML
+
+** Sesiones anteriores
