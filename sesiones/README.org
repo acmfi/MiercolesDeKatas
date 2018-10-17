@@ -4,13 +4,19 @@ enlazaremos a cada una.
 
 * Sesión actual
 
-- Título: Introducción. ¿Cómo vamos a trabajar?
-- Objetivo: familiarización con las dinámicas de trabajo. Conocer el
-  entorno y resolver los primeros problemas.
-- Carpeta: [[./semana1/][semana1]]
+- Título: ¡A la batalla! Profundizando en CodeWars.
+- Objetivo: Subir nuestro nivel en CodeWars o bien enfrentarse a un juez como el de la UVa.
+- Carpeta: [[./semana2/][semana2]]
 
 #+BEGIN_HTML
 <p align="center"><a href="#"><img width="100px" src="../img/logo-miercoles-katas.jpg" /></a></p>
 #+END_HTML
 
 * Sesiones anteriores
+
+** Semana 1
+
+- Título: Introducción. ¿Cómo vamos a trabajar?
+- Objetivo: familiarización con las dinámicas de trabajo. Conocer el
+  entorno y resolver los primeros problemas.
+- Carpeta: [[./semana1/][semana1]]

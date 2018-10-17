@@ -1,8 +1,8 @@
 #+TITLE: Miércoles de Katas
 
-- Próxima sesión: miércoles 17 de octubre
 - Lugar: Aula informática El Monje (Bloque 4, planta 1)
-- Hora: 15:00 a 16:30
+- Próxima sesión: Salvo cambio por decisión del grupo, el miércoles 24 de octubre
+- Hora: Salvo cambio por decisión del grupo, de 15:00 a 16:30
 
 #+BEGIN_HTML
 <p align="center"><a href="#"><img width="100px" src="./img/logo-miercoles-katas.jpg" /></a></p>
