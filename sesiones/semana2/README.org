@@ -1,0 +1,30 @@
+* ¡A la batalla! Profundizando en CodeWars.
+
+Después de una sesión de introducción al sistema que usaremos podemos lanzarnos a profundizar un poco.
+
+Empezaremos haciendo un ejercicio de los que pasó Samuel por el grupo. Este ejercicio no tendría un corte tan matemático.
+Si se quiere ir a uno más avanzado Luis y Andrés compartieron un par de problemas de Codewars.
+
+Además se propone conocer el sistema de tests de Codewars para ver cómo podriamos ampliar los casos de prueba que nos dan en cada kata. 
+
+#+BEGIN_HTML
+<p align="center"><a href="#"><img width="100px" src="../../img/logo-miercoles-katas.jpg" /></a></p>
+#+END_HTML
+
+** Direcciones IPv4
+
+Dada una dirección IPv4 y una máscara de subred se pide calcular: la red, la 
+dirección de broadcast y la primera y última dirección de un host.
+
+Este ejercicio no se encuentra en Codewars, sino que es externo. Asi que toca 
+hacerlos desde cero. Se deja a elección el formato de entrada de los argumentos. 
+
+** Último dígito de un número grande
+
+https://www.codewars.com/kata/last-digit-of-a-large-number
+
+De nuevo tenemos un ejercicio de corte más matemático. Es un 5kyu, así que toca estrujarse un poco la cabeza. 
+
+#+BEGIN_HTML
+<p align="center"><a href="#"><img width="100px" src="../../img/logo-miercoles-katas.jpg" /></a></p>
+#+END_HTML
